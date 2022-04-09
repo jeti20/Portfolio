@@ -25,12 +25,15 @@ My name is Michał Rodak. I am a management and production engineer, currently s
 # Certificates
 * Internal auditor of quality managment system according to ISO 9001:2015 - PCC-CERT Polish Certification Center
 # Courses
-* Udemy:
-  *  Testowanie Oprogramowania - Praktyczny kurs testowania oprogramowania
-  *  Nikolay Advolodkin - Selenium WebDriver Masterclass with C#
-* YouTube
-  * [Zawód Tester](https://www.youtube.com/watch?v=Hsaq1fqYWd0&list=PL1c6h2qzmaAZOpXfmRy8xWZ2FCXbTe2Cr) 
-  * Overment - Kurs REST API od podstaw / Czym jest API / REST overment / HTTP / GraphQL / JWT / autoryzacja / HTTP status code / microservices / jak stworzyć API
+* Udemy courses:
+  *  [Testowanie Oprogramowania - Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+  *  [Nikolay Advolodkin - Selenium WebDriver Masterclass with C#](https://www.udemy.com/course/selenium-with-c/)
+  *  [Valentin Despa - Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/)
+
+* YouTube Playlist
+  * [Zawód Tester](https://www.youtube.com/watch?v=Hsaq1fqYWd0&list=PL1c6h2qzmaAZOpXfmRy8xWZ2FCXbTe2Cr)
+  * [Overment - Kurs REST API od podstaw / Czym jest API / REST overment / HTTP / GraphQL / JWT / autoryzacja / HTTP status code / microservices / jak stworzyć API](https://www.youtube.com/playlist?list=PLjHmWifVUNMLjh1nP3p-U0VYrk_9aXVjE)
+  * [TESTLINK TUTORIAL - Learn Test Management Using TestLink - FULL COURSE](https://www.youtube.com/playlist?list=PLL34mf651faM3OYoEJuwIw-XoNbMXc1ZE)
 # Books
 * Radosław Smilgin - Zawód tester. Od decyzji do zdobycia doświadczenia. Wydanie II
 * Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
@@ -50,8 +53,6 @@ My name is Michał Rodak. I am a management and production engineer, currently s
 # My test case examples
 # My bug reports
 * [Games bugs](https://docs.google.com/presentation/d/15C8x0PASztpXxeo3Cfai_Nr_hBcm7jFtqOWRXcNMrP4/edit?usp=sharing)
-# My examples of diagrams and decision tables
-* e
 # My examples of CSS Selectors and xPaths
 # Projects in which I participated
 
