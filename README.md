@@ -46,6 +46,7 @@ My name is Michał Rodak. I am a management and production engineer, currently s
 * [http://cherry-it.pl/](http://cherry-it.pl/)
 * [https://pwicherski.gitbook.io/testowanie-oprogramowania/](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 * [https://testerzy.pl/](https://testerzy.pl/)
+* [https://testuje.io/](https://testuje.io/)
 # Webinars
 * DXC Technology Polska - Jak zostać testerem oprogramowania? Wyzwania i możliwości w 2022 roku.
 * Huuuge Games - Skuteczne tesotowanie gier od kuchni
